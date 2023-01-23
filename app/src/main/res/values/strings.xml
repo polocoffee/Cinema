@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="lorem_description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.</string>
+    <string name="image_tv">image_tv</string>
+    <string name="tv_series">Tv-Series</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="image_movie">image_movie</string>
+    <string name="popular_tv_series">Popular Tv Series</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="movie">MOVIE</string>
+</resources>
